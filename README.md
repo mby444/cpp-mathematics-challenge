@@ -35,3 +35,8 @@ A string that tells the index of the first math expression that matches. If ther
 ```sh
 index 1
 ```
+
+
+<b>Explanation:</b> 
+
+Index counting starts at 0, so '(5*3)' is at index 1 and matches your answer of 15.
